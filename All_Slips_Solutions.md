@@ -1,6 +1,6 @@
 # MTC-242-MN-P: All Slips Solutions #
 S.Y. B.Sc. (Computer Science) — Mathematics Practical Examination (sem III)
-Solutions by Raj…
+
 
 ## Slip No. 1
 
